@@ -1,0 +1,12 @@
+body {
+    min-height: 2000px;
+}
+
+.jumbotron {
+    padding-top: 6rem;
+    background-color: #f0d7d7;
+}
+
+#projects {
+    background-color: #f0d7d7
+}
